@@ -7,6 +7,11 @@ public class Program1 {
 		System.out.println("Vikash");
 		System.out.println("Kaushal");
 		System.out.println("Akash");
+		System.out.println("Vikash1");
+		System.out.println("Vikash2");
+		System.out.println("Vikash3");
+		System.out.println("Vikash4");
+		System.out.println("Vikash5");
 	}
 
 }
